@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76cf88bb-fece-4e66-9c97-3e38e231e0a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Kerem_Mermer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Kerem_Mermer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/libs/three.js/examples/jsm/loaders/VRMLLoader.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/libs/three.js/examples/jsm/loaders/VRMLLoader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/loader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layout.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/layout.pug" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28hNrnAlqZJDmZyL9EXXxjnk0f6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="16.13.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\tloc\public\javascripts\libs\recorder" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\tloc\views" />
+      <recent name="C:\Projects\tloc\public\assets\models" />
+      <recent name="C:\Projects\tloc\public\assets\targets" />
+      <recent name="C:\Projects\tloc\public\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76cf88bb-fece-4e66-9c97-3e38e231e0a9" name="Default Changelist" comment="" />
+      <created>1651665058210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651665058210</updated>
+      <workItem from="1651665059895" duration="489000" />
+      <workItem from="1651665679071" duration="13232000" />
+      <workItem from="1651757069946" duration="4152000" />
+      <workItem from="1651856105295" duration="4730000" />
+      <workItem from="1651914634341" duration="5583000" />
+      <workItem from="1652000001440" duration="24545000" />
+      <workItem from="1652091805275" duration="5956000" />
+      <workItem from="1652102789305" duration="7214000" />
+      <workItem from="1652182877508" duration="674000" />
+      <workItem from="1652191377735" duration="8433000" />
+      <workItem from="1652206155125" duration="413000" />
+      <workItem from="1652262866371" duration="16136000" />
+      <workItem from="1652287478885" duration="661000" />
+      <workItem from="1652344091376" duration="1561000" />
+      <workItem from="1652348845044" duration="5987000" />
+      <workItem from="1652434849522" duration="13537000" />
+      <workItem from="1652519923025" duration="8252000" />
+      <workItem from="1652606228092" duration="8206000" />
+      <workItem from="1652707254236" duration="7264000" />
+      <workItem from="1652777119392" duration="4454000" />
+      <workItem from="1652961128366" duration="7348000" />
+      <workItem from="1653040945045" duration="11652000" />
+      <workItem from="1653126145775" duration="14315000" />
+      <workItem from="1653309561295" duration="33000" />
+      <workItem from="1653914456900" duration="1260000" />
+      <workItem from="1654178008906" duration="379000" />
+      <workItem from="1654363484529" duration="2314000" />
+      <workItem from="1673075224153" duration="219000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1651675893196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1651675893196" />
+    <state x="516" y="202" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1652777233441">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="202" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1652777233441" />
+    <state x="540" y="241" key="#com.intellij.tools.ToolEditorDialog" timestamp="1651676085303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="241" key="#com.intellij.tools.ToolEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1651676085303" />
+    <state x="548" y="154" key="FileChooserDialogImpl" timestamp="1652287541260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1652287541260" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1651676109513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1651676109513" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1652440253539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1652440253539" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1652963111444">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1652963111444" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1652198265438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1652198265438" />
+  </component>
+</project>

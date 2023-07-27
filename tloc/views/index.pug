@@ -1,0 +1,36 @@
+extends layout
+
+block content
+    .loader
+        .loader-inner
+            .loader-inner-header
+                img.loader-logo(src='/images/logo.png')
+                h1.loader-title The Lessons Of Cunning
+                .loader-container
+                    h2.loader-introduction
+                    p.loader-content
+            img.loading-animation(src='/images/loader.gif')
+    #app
+    .record-button.needsclick
+        .record-button-inner
+            i(class='fa-solid fa-microphone')
+            |
+            | Answer The Question
+    #dialogs
+        p#dialogs-inner
+        #progress
+            #progress-bar
+        #answers
+            .blocker
+            a.answer(href='javascript: void(0);')
+            .divider
+                | or
+            a.answer(href='javascript: void(0);')
+        a(href='javascript: void(0);' class='start-button')
+            i(class='fa-solid fa-circle-play')
+            |
+            | Start
+        a(href='javascript: void(0);' class='next-button')
+            i(class='fa-solid fa-arrow-right-long')
+            |
+            | Next Chapter
